@@ -14,4 +14,4 @@ This deployed version is hosted using Netlify, allowing anyone to open and use t
 
 A complete step-by-step tutorial for beginners explaining the project and deployment process.
 
-**Watch the tutorial:** 
+**Watch the tutorial:** _https://drive.google.com/file/d/1RpKXbPNrxc6RModsYdRyC6uPqL_WV7_A/view?usp=sharing_
