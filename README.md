@@ -1,6 +1,6 @@
 **CAM-Nano Framework for Automated Morphology Characterization: Integrating High-Resolution Microscopy Nanoparticles with LLM-Based Semantic Analysis**
 
-Cross-Attention Multimodal–Nano Framework is an automated system designed to analyze and characterize nanoparticle morphology by integrating high-resolution microscopy images with semantic information extracted from scientific literature. The framework combines computer vision techniques with large language model–based analysis to create a multimodal understanding of nanomaterial structures.
+Cross-Attention Multimodal–Nano is an automated system designed to analyze and characterize nanoparticle morphology by integrating high-resolution microscopy images with semantic information extracted from scientific literature. The framework combines computer vision techniques with large language model–based analysis to create a multimodal understanding of nanomaterial structures.
 
 **Live Demo**
 
