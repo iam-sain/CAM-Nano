@@ -6,8 +6,7 @@ A beginner-friendly React project demonstrating how to build and deploy a web ap
 
 You can access the live project here:
 
-**Live Website:**
-_https://your-project-name.netlify.app_
+**Live Website:** _https://cam-nano.netlify.app/_
 
 This deployed version is hosted using Netlify, allowing anyone to open and use the application directly from a browser without installation.
 
@@ -15,6 +14,4 @@ This deployed version is hosted using Netlify, allowing anyone to open and use t
 
 A complete step-by-step tutorial for beginners explaining the project and deployment process.
 
-**Watch the tutorial:**
-
-_https://your-video-link_
+**Watch the tutorial:** 
