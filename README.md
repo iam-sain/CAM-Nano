@@ -28,7 +28,7 @@ The live interface allows users to:
 
 A complete beginner-friendly walkthrough of the framework is available here:
 
-📺 **Watch the Tutorial:** _https://drive.google.com/file/d/1EeEqGzC59c5m81VNGNUnwmUpUQniGdkT/view?usp=sharing_
+📺 **Watch the Tutorial:** _https://drive.google.com/file/d/1gXFSSz4FWCNx4f0N7UK__7xUIBxbc6Cb/view?usp=sharing_
 
 The tutorial explains:
 
