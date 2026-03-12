@@ -40,6 +40,23 @@ The tutorial explains:
 
 ---
 
+## 📂 Sample Dataset
+
+A sample subset of microscopy images and corresponding JSON annotations used in the CAM-Nano framework is available for download.
+
+🔗 **Download Sample Data:** _https://drive.google.com/drive/folders/1i0yybU-H0Ib_zQASqjpqmrN9qlAKFMv6?usp=sharing_ 
+
+Sample dataset includes:
+
+* **Microscopy images** of nanoparticles used for morphology analysis
+* **JSON annotation files** containing metadata and structural labels
+* Example pairs used for **multimodal training and evaluation**
+
+This sample data is provided to help users quickly understand the dataset structure and test the framework pipeline before using the full dataset.
+
+---
+
+
 ## 🧠 Framework Overview
 
 The CAM-Nano framework integrates **vision models and language models** to perform automated nanoparticle morphology characterization.
